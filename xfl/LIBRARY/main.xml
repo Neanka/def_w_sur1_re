@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="main" itemID="5a9b987a-00000005" linkageExportForAS="true" linkageClassName="main" lastModified="1549032494">
+  <timeline>
+    <DOMTimeline name="main">
+      <layers>
+        <DOMLayer name="Слой_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="def_bar_mc" name="food_bar" selected="true">
+                  <matrix>
+                    <Matrix tx="37.5" ty="9.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="504.6" y="9.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="def_bar_mc" name="drink_bar">
+                  <matrix>
+                    <Matrix tx="37.5" ty="47"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="504.6" y="9.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="def_bar_mc" name="fatigue_bar">
+                  <matrix>
+                    <Matrix tx="37.5" ty="84.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="504.6" y="9.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

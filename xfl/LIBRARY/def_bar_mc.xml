@@ -1,0 +1,108 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="def_bar_mc" itemID="5860b594-0000000c" linkageExportForAS="true" linkageClassName="def_bar" lastModified="1553086798">
+  <timeline>
+    <DOMTimeline name="def_bar_mc">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bg_for_mcm" name="bg_for_mcm_mc" selected="true">
+                  <transformationPoint>
+                    <Point x="214.5" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="pre_tf" fontRenderingMode="standard" left="-3.25" width="55" height="32.95" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="1.25" ty="-6.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000%</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="25.2" size="21" bitmapSize="420" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Symbol 486" name="bar_mc">
+                  <transformationPoint>
+                    <Point x="100" y="3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 565" name="bra_mc">
+                  <transformationPoint>
+                    <Point x="100" y="4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="status_tf" fontRenderingMode="standard" width="838.1" height="32.95" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="206.65" ty="-6.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Severely Dehydrated</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="25.2" size="21" bitmapSize="420" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Symbol 372" name="sleep_mc" isVisible="false">
+                  <matrix>
+                    <Matrix tx="-21.55" ty="8.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 374" name="food_mc" isVisible="false">
+                  <matrix>
+                    <Matrix tx="-19.95" ty="6.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 376" name="drink_mc" isVisible="false">
+                  <matrix>
+                    <Matrix tx="-20" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-1.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 348" name="nuka_mc" isVisible="false">
+                  <matrix>
+                    <Matrix tx="-20.3" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.65" y="0.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="adren" name="adren_mc" isVisible="false">
+                  <matrix>
+                    <Matrix tx="-21.45" ty="8.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 442" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="65.1667785644531" d="6.00003051757813" tx="191.5" ty="10.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.1" y="-0.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
